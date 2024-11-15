@@ -22,7 +22,7 @@ const Home = () => {
       <SelectsCard/>
       <Carousel/>
       <CommunitySection/>
-      <Footer/>
+      
     </>
   );
 };
